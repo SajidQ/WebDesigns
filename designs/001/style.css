@@ -1,0 +1,43 @@
+body
+{margin:0;
+padding:0;
+background:#000;}
+
+body,td,p
+{font:12px Verdanda,Tahoma;
+color:#88974B;
+text-align:justify;
+letter-spacing:1px;}
+
+
+a:link,a:visited,a:active,b
+{font:bold 11px Verdanda,Tahoma;
+color:#88974B;
+text-decoration:none;
+cursor:crosshair;
+letter-spacing:1px;}
+
+a:hover
+{font-size:11px;
+color:#000;
+text-decoration:underline;
+letter-spacing:1px;}
+
+
+.head
+{background-color:#4A5C2B;
+height:16px;
+padding-left:4px;
+font: bold 12px Verdanda,Tahoma;
+color:#040A0A;
+letter-spacing:2px;
+text-transform:uppercase;}
+
+.footer
+{background:url('images/footer.jpg') no-repeat;
+text-align:center;
+height:24px;
+width:780px;}
+
+
+

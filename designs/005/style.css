@@ -1,0 +1,34 @@
+body
+{margin:0;
+padding: 0;
+background: #9BB08E url('images/bg2.jpg') repeat-x;}
+
+body,td,p
+{font:11px verdana,Tahoma;
+color:#000;
+text-align:justify;}
+
+a:link,a:visited,b
+{font-weight:bold;
+color:#000;
+text-decoration:none;}
+
+a:hover,a:active
+{color:#878648;
+text-decoration:underline;}
+
+
+.head
+{background-color:#677B57;
+padding-left:4px;
+font:bold 14px/18px verdana,Tahoma;
+color:#C1C49A;
+letter-spacing:2px;}
+
+#content
+{padding:17px 1px 0 1px;
+width:415px;}
+
+#nav
+{padding:53px 1px 0 1px;
+width:154px;}

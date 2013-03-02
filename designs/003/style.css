@@ -1,0 +1,22 @@
+body
+{margin:0; background: url('images/bg.jpg') repeat;
+scrollbar-arrow-color:#F1D5DD;
+scrollbar-shadow-color:#DA4F7F;
+scrollbar-highlight-color:#E76A90;
+scrollbar-darkshadow-color:#DA4F7F;
+scrollbar-3dlight-color:#B5194C;
+scrollbar-track-color:#D12968;
+scrollbar-base-color:#DA4F7F;
+font: 12px verdana, sans-serif;color:#FE8FAF; text-align:justify;}
+
+
+a:link,a:visited,b
+{color:#000; text-decoration:underline;}
+
+
+a:hover,a:active
+{text-decoration:none;}
+
+
+h1
+{padding-left:8px; display: block; background:#F6387E; font-size:16px; color:#D3DDE7; text-transform:lowercase;}

@@ -1,0 +1,30 @@
+body
+{background: #FFFFFF url('images/image_06.jpg') no-repeat fixed;
+scrollbar-arrow-color:#F9DBE1;
+scrollbar-shadow-color:#F9DBE1;
+scrollbar-highlight-color:#FFFFFF; 
+scrollbar-darkshadow-color:#F9DBE1;
+scrollbar-3dlight-color:#FFFFFF;
+scrollbar-track-color:#FFFFFF;
+scrollbar-base-color:#F9DBE1;
+font-size:12px;
+color:#6D3030;
+font-family: verdana,Tahoma;
+margin:0;
+text-align:justify;}
+
+
+a:link,a:visited,b
+{color:#000;
+text-decoration:underline;}
+
+
+a:hover,a:active
+{color:#F9DBE1;}
+
+
+h1
+{font-size:15px;
+border-bottom:1px dotted #F9DBE1;
+padding-left:4px;
+text-transform:lowercase;}

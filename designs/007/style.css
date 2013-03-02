@@ -1,0 +1,32 @@
+body
+{margin: 0;
+padding: 0;
+background: #B6ADA4 url('images/bg.jpg') repeat-x;
+font: 12px georgia, serif;
+color: #907370;
+text-align:justify;}
+
+a:link,a:visited
+{font-weight:bold;
+color:#88656D;
+text-decoration:none;}
+
+a:hover,a:active
+{color:#48373E;}
+
+.nav
+{padding: 6px 110px 0 0;
+text-align:right;
+font: bold 14px georgia, serif;}
+
+p, li
+{padding: 0 21px 0 37px;}
+
+h1
+{font: bold 22px georgia, serif;
+padding: 0 0 0 34px;}
+
+ul, ol 
+{margin:0;
+padding:0;
+list-style-position:inside;}

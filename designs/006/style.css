@@ -1,0 +1,36 @@
+body
+	{margin:0;
+	padding:0;
+	background: #B9CBA8 url('images/bg2.jpg') repeat-x;}
+
+body,td,p
+	{font:12px verdana,Tahoma;
+	color:#000;
+	text-align:justify;
+    }
+
+a:link,a:visited,b
+	{font-weight:bold;
+	color:#000;
+	text-decoration:none;}
+
+a:hover,a:active
+	{color:#746134;}
+
+
+#content
+	{padding:10px 0 0 0;
+	width:496px;}
+
+#nav
+	{padding:40px 0 0 0;
+	width:189px;}
+
+.head
+	{height:16px;
+	background-color:#BDD0A0;
+	padding-left:8px;
+	font:bold 14px verdana,Tahoma;
+	color:#000;
+	letter-spacing:1px;
+    }
